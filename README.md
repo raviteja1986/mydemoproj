@@ -1,0 +1,4 @@
+mydemoproj
+==========
+
+modified output message
